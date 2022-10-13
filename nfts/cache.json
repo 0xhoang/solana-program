@@ -1,0 +1,17 @@
+{
+  "program": {
+    "candyMachine": "3RMSsYyzWCPQfkaapJ1z6wbKWkqCBY5nLqc46VZcKUzv",
+    "candyMachineCreator": "9awhqpqUP97YestUT5EdAE9pR7vRbAyaZoHiqa2TLvR3",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Sneaker #1",
+      "image_hash": "0f668b4a3afad858c34f225f52ffa8d3fefb34c3d2ac4f4e643c6e848dcdf7ec",
+      "image_link": "https://arweave.net/ykxXA4hGyNqncEGNB5bTsd56YZ0zUV7duFH6gnxNTI8?ext=png",
+      "metadata_hash": "c9547b7568bc30ed5f5fdce6d61e180d6e077edbcd8539af3d44889e86ed5576",
+      "metadata_link": "https://arweave.net/AfH0ZFyupz3wmKTgvijHkn359nHXJl7jTpFMX2T8ccc",
+      "onChain": false
+    }
+  }
+}

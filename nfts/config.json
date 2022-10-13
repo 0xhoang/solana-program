@@ -1,0 +1,31 @@
+{
+  "price": 0.01,
+  "number": 1,
+  "gatekeeper": null,
+  "creators": [
+    {
+      "address": "HVs9wupFpYGVi8GNLD1eLrz6uTirH2nuWShbYaSroCZM",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": "8WLwbkbBPk3zAXoKc5Qdk29GeKwTyUuA1a62Hy71Kjk8",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "2022-10-01T18:00:00+00:00",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": {
+    "name": "Sneaker",
+    "uri": "https://arweave.net/8O0RbTuCIwaOz4R52Yus1qzfq3eRIjhgQxqUgdLWMXM",
+    "hash": "DCbAQx7TMrNrmdbYsiewnUGcFoYh2EA1"
+  },
+  "freezeTime": null,
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
+  "isMutable": true,
+  "symbol": "SR",
+  "sellerFeeBasisPoints": 500,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null
+}
