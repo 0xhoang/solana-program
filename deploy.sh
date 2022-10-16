@@ -1,0 +1,1 @@
+solana deploy target/deploy/solana_escrow.so

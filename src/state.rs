@@ -4,7 +4,12 @@ use solana_program::{
     pubkey::Pubkey,
 };
 
-use arrayref::{array_mut_ref, array_ref, array_refs, mut_array_refs};
+use arrayref::{
+    array_mut_ref,
+    array_ref,
+    array_refs,
+    mut_array_refs
+};
 
 
 pub struct Escrow {
@@ -29,6 +34,7 @@ impl Pack for Escrow {
 
     fn pack_into_slice(&self, dst: &mut [u8]) {
         let dst = array_mut_ref![dst, 0, Escrow::LEN];
+
         let (
             is_initialized_dst,
             initializer_pubkey_dst,
